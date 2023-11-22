@@ -1,0 +1,56 @@
+
+
+/* Main container styling */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header or title styling */
+  .about-header {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333333;
+  }
+  
+  /* Avatar image styling */
+  .avatar-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .avatar-image {
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    border-radius: 50%;
+    border: 3px solid #61dafb; /* Accent color for the border */
+  }
+  
+  /* Bio or description text styling */
+  .bio-container {
+    text-align: center;
+  }
+  
+  .about-text {
+    line-height: 1.6;
+    color: #555555;
+    margin-bottom: 20px;
+  }
+  
+  /* List styling for skills or other details */
+  .about-list {
+    margin-bottom: 20px;
+    padding-left: 20px; /* Add indentation to the list items */
+  }
+  
+  .about-list li {
+    list-style-type: disc; /* Bullet points for list items */
+    margin-bottom: 8px;
+  }
+  
+  /* Additional specific styles as needed for your about page content */
+  

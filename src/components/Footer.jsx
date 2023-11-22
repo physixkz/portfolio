@@ -7,10 +7,10 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://github.com/Punk1776" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/physixkz" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a href="https://www.linkedin.com/in/matthew-miller-b7765229a/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
       </div>
